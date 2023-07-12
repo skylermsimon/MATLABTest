@@ -14,3 +14,7 @@ Sumdifx = sumdif*10
 %one more check
 
 sumdifx = v1*10;
+
+%and one more fetch/pull attempt!
+
+pull = v2-v1-Dif;
