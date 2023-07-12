@@ -10,3 +10,7 @@ sumdif = sum+Dif
 % attempt an update to allow a pull
 
 Sumdifx = sumdif*10
+
+%one more check
+
+sumdifx = v1*10;
