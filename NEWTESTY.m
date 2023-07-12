@@ -6,3 +6,7 @@ sum = v1 + v2
 Dif = v1-v2
 
 sumdif = sum+Dif
+
+% attempt an update to allow a pull
+
+Sumdifx = sumdif*10
